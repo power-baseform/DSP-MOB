@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/splashId"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:alpha="0"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:paddingBottom="0dp"
+        android:paddingLeft="40dp"
+        android:visibility="visible"
+        android:weightSum="10"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="fill_parent"
+            android:layout_height="0dp"
+            android:layout_weight="3.5"
+            android:scaleType="fitStart"
+            android:src="@drawable/drop"
+            app:srcCompat="@drawable/drop" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/fredoka_one"
+            android:text="POWER"
+            android:textColor="#233382"
+            android:textSize="60sp" />
+
+        <android.support.v7.widget.AppCompatTextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-10dp"
+            android:fontFamily="@font/montserrat"
+            android:lineSpacingExtra="-9sp"
+            android:text="WATER COMMUNITIES"
+            android:textColor="#61b9e8"
+            android:textSize="40sp" />
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

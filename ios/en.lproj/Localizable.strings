@@ -1,0 +1,15 @@
+"REACHABILITY_TITLE"="Internet Access";
+"REACHABILITY_MSG"="No access to internet";
+"OK"="OK";
+"ERROR"="Error";
+"EMPTY_TITLE"="TITLE";
+"EMPTY_BODY"="Empty Comment Body";
+"SUCCESS"="Success";
+"COMMENT_SUBMITTED"="Comment was submitted, waiting for review!";
+"UNABLE_TO_COMMENT"="Unable to submit comment!";
+"AVAILABLE_CHALLENGES"="Available challenges (%d)";
+"PARTICIPATION_NFC_TITLE"="I've participated!";
+"PARTICIPATION_NFC_BODY"="Attendance confirmed with NFC!\nCODE:%X\n\n";
+"PARTICIPATION_MSG_NFC_TITLE"="Success";
+"PARTICIPATION_MSG_NFC_MSG"="Gamification points will be awarded by sending the above comment.";
+"PARTICIPATION_NFC_ERROR"="NFC not available on this mobile device!";
