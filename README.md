@@ -10,7 +10,7 @@ For more information, check out http://www.power-h2020.eu
 
 # Contributing
 
-Check out our [contributing guidelines](https://github.com/power-baseform/DSP-MOB/blob/master/CONTRIBUTING.md) for ways to offer feedback and contribute.
+Check out our [contributing guidelines](https://github.com/power-baseform/DSP-MOB/blob/master/CONTRIBUTING.md) for ways to offer [feedback](https://bugzilla.baseform.com/) and contribute.
 
 # Licenses
 
