@@ -1,6 +1,6 @@
 # About
 
-The MOB is the Power mobile apps and is made available to the city pilots (Beta release) for the purpose of publishing project data and interacting with the project’s intended audience in mobile platforms.
+The MOB is the Power Project mobile app and is made available with content related to the key demonstration cities that are part of the consortium. The main goal of the app is to facilitate the access of the community to specific water related content, engage users with constructive feedback to decision makers and disseminate water challenged in order to increase participation through digital social tools.
 
 # Background
 
