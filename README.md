@@ -6,9 +6,9 @@ For more details about the MOB software's  design and implementation, please che
 
 # Background
 
-The Power Water Communities DSP open-source software repository was created and is curated by the Power (Political and social awareness on water environmental challenges) Project and its partners, with development led by Baseform. The Digital Social Platform (DSP) is the project’s main tool to be made available to cities, utilities, public agencies or water-related interest groups, aiming at an active and relevant contribution to the creation of digital communities around themes specifically related to water and the quality of life of local populations. 
+The Power Water Communities DSP open-source software repository was created and is curated by the Power (Political and social awareness on water environmental challenges) Project and its partners, with development led by Baseform. The Digital Social Platform (DSP) is the project’s main tool to be made available to cities, utilities, public agencies or water-related interest groups, aiming at an active and relevant contribution to the creation of digital communities around themes specifically related to water and the quality of life of local populations.
 
-Such DSPs are typically aimed at community members, activists, volunteers, municipal officials and representatives, water professionals and experts, as well as regional, national or international-level policy-makers, politicians and other stakeholders. A specific instance of the DSP is made available through a dedicated Water Community website and an accompanying mobile app, designed to fulfill both informative, engagement and participatory roles. 
+Such DSPs are typically aimed at community members, activists, volunteers, municipal officials and representatives, water professionals and experts, as well as regional, national or international-level policy-makers, politicians and other stakeholders. A specific instance of the DSP is made available through a dedicated Water Community website and an accompanying mobile app, designed to fulfill both informative, engagement and participatory roles.
 
 The Power Water Communities DSP includes three related but separate software repositories: HUB, a content management back-end; PUB, the web front-end for the general public; and MOB, its mobile app counterpart.   
 
